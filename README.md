@@ -1,16 +1,39 @@
-## Hi there 👋
+ __   __  _______  __   __  ______      _______  ______    _______  _______  ______    _______  __   __  __   __  _______  ______   
+|  | |  ||       ||  | |  ||    _ |    |       ||    _ |  |       ||       ||    _ |  |   _   ||  |_|  ||  |_|  ||       ||    _ |  
+|  |_|  ||   _   ||  | |  ||   | ||    |    _  ||   | ||  |   _   ||    ___||   | ||  |  |_|  ||       ||       ||    ___||   | ||  
+|       ||  | |  ||  |_|  ||   |_||_   |   |_| ||   |_||_ |  | |  ||   | __ |   |_||_ |       ||       ||       ||   |___ |   |_||_ 
+|_     _||  |_|  ||       ||    __  |  |    ___||    __  ||  |_|  ||   ||  ||    __  ||       ||       ||       ||    ___||    __  |
+  |   |  |       ||       ||   |  | |  |   |    |   |  | ||       ||   |_| ||   |  | ||   _   || ||_|| || ||_|| ||   |___ |   |  | |
+ _|___|_ |_______||_______||___|_ |_|  |___| ___|___| _|_||_______||_______||___|  |_||__| |__||_|   |_||_|   |_||_______||___|  |_|
+|   _   ||  |  | ||      |   |   |    |   | |       ||       ||       ||    _ |                                                     
+|  |_|  ||   |_| ||  _    |  |   |    |   | |    ___||_     _||    ___||   | ||                                                     
+|       ||       || | |   |  |   |    |   | |   |___   |   |  |   |___ |   |_||_                                                    
+|       ||  _    || |_|   |  |   |___ |   | |    ___|  |   |  |    ___||    __  |                                                   
+|   _   || | |   ||       |  |       ||   | |   |      |   |  |   |___ |   |  | |                                                   
+|__| |__||_|  |__||______|   |_______||___| |___|      |___|  |_______||___|  |_|                                                   
 
-<!--
-**StdntOwen/StdntOwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  👤 Kenshilifts
+-------------------
+    OS: Windows 11 
+    Uptime: 20 years
+IDE:  VS Code, JetBrains
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages:
+- Python, Java, C++, JavaScript
+
+Frameworks:
+- React, Node.js, Flutter
+
+Interests:
+- Systems programming, Game Dev, Web Dev, AI
+
+Hobbies:
+- Photography, Gaming, Workouts,
+
+Projects:
+    - Mothers day special
+    - Graph Traversal Visualizer
+    - Test your Password
+Contact:
+- LinkedIn: www.linkedin.com/in/owen-nuñez-9a15263a5
