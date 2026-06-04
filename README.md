@@ -1,39 +1,15 @@
-# 👤 Kenshilifts
+👤 Kenshilifts/Owen
 
----
+| Windows 11 | 
 
-## 💻 Profile
-- OS: Windows 11  
-- Uptime: 20 years  
-- IDE: VS Code, JetBrains  
+Mastered language: . . . . . . . . . . Python • Java • C++ • JavaScript  
 
----
+frameworks: . . . . . . . . . . React • Node.js • Flutter 
 
-## Skills
-- Languages: Python, Java, C++, JavaScript  
-- Frameworks: React, Node.js, Flutter  
+What i like: . . . . . . . . . . Systems programming / Game dev / Web Dev / AI  
 
----
+When offline/dayoff: . . . . . . . . . . Photography • Gaming • Workouts  
 
-##  Interests
-- Systems programming  
-- Game dev  
-- Web dev  
-- AI  
+Projects so far: . . . . . . . . . . Graph traversal visualizer • Password tester • Apple hunt ( ongoing )
 
----
-
-## offline thing
-- Workouts / Street workout 
-
----
-
-## My projects so far 
-- Graph Traversal Visualizer  
-- Password tester
-- SnakeGmae (ongoing)
-
----
-
-## 🌐 Contact
-- LinkedIn: https://www.linkedin.com/in/owen-nuñez-9a15263a5
+LinkedIn: . . . . . . . . . . https://www.linkedin.com/in/owen-nuñez-9a15263a5
