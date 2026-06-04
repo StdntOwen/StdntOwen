@@ -1,49 +1,39 @@
-                                            
-╔════════════════════════════════════╗
-      ⚡  K E N S H I L I F T S  ⚡
-╚════════════════════════════════════╝
+# 👤 Kenshilifts
 
-╭────────────────────────────────────╮
-│  💻 SYSTEM PROFILE                 │
-╰────────────────────────────────────╯
+---
 
-OS        › Windows 11
-Uptime    › 20 years
-IDE       › VS Code • JetBrains
+## 💻 Profile
+- OS: Windows 11  
+- Uptime: 20 years  
+- IDE: VS Code, JetBrains  
 
-╭────────────────────────────────────╮
-│  🧠 CORE STACK                    │
-╰────────────────────────────────────╯
+---
 
-Languages › Python • Java • C++ • JavaScript
-Frameworks › React • Node.js • Flutter
+## Skills
+- Languages: Python, Java, C++, JavaScript  
+- Frameworks: React, Node.js, Flutter  
 
-╭────────────────────────────────────╮
-│  🚀 INTERESTS                     │
-╰────────────────────────────────────╯
+---
 
-› Systems Programming
-› Game Dev
-› Web Dev
-› Ai
+##  Interests
+- Systems programming  
+- Game dev  
+- Web dev  
+- AI  
 
-╭────────────────────────────────────╮
-│  🎮 BEYOND CODE                   │
-╰────────────────────────────────────╯
+---
 
-› Photography
-› Gaming
-› Workouts
+## offline thing
+- Workouts / Street workout 
 
-╭────────────────────────────────────╮
-│  📁 PROJECTS                      │
-╰────────────────────────────────────╯
+---
 
-📈 Graph traversal visualizer  
-🔐 Test Your Password  
+## My projects so far 
+- Graph Traversal Visualizer  
+- Password tester
+- SnakeGmae (ongoing)
 
-╭────────────────────────────────────╮
-│  🌐 CONNECT                       │
-╰────────────────────────────────────╯
+---
 
-LinkedIn › https://www.linkedin.com/in/owen-nuñez-9a15263a5
+## 🌐 Contact
+- LinkedIn: https://www.linkedin.com/in/owen-nuñez-9a15263a5
